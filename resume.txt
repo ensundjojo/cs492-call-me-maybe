@@ -1,0 +1,44 @@
+{
+-M0Bqt38B62FThe9aBMU: {
+company: "Drivetech Auto Garage",
+description: "Shadowing as a Mechanical Engineer on combustion engine services",
+duration: "2015",
+jobName: "Shadowing Internship",
+location: "Surakarta, Indonesia"
+},
+-M0Bxyr2hwMZNZrh_wTY: {
+company: "Oregon State University",
+description: "An International Student majored in Computer Science in OSU",
+duration: "2016 - 2020",
+jobName: "Computer Science Student",
+location: "Corvallis, US"
+},
+-M0GLEa7RVOBWBQqCCa7: {
+company: "Counterworks",
+description: "Worked as Rails developer. I was in charge of back-end side of the application. The product used Aws as the infrastructure.",
+duration: "2019/11 ~ Present",
+jobName: "Rails developer",
+location: "Tokyo in Japan"
+},
+-M0GLm-OYbbWpvXMYBLw: {
+company: "N dimension",
+description: "Worked as flutter engineer. I was in charge of designing the requirement, and developing actual product for back-end and front-end.",
+duration: "2020/1 ~ Present",
+jobName: "Flutter developer",
+location: "Tokyo in Japan"
+},
+-M0GQ-CH1OdkE_jmJK7W: {
+company: "t",
+description: "t",
+duration: "t",
+jobName: "t",
+location: "t"
+},
+-MCfGkMu_QIUcXQmgBx2: {
+company: "Google",
+description: "Join the Google and do a internship position",
+duration: "2018",
+jobName: "computer engineer",
+location: "Ca"
+}
+}
